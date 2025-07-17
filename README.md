@@ -1,1 +1,3 @@
-# unified-shopping-platform-45432
+# Project Repository
+
+This is the initial README file for the project.
